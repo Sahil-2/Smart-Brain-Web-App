@@ -34,3 +34,5 @@
 ### APIs
 - [Clarifai](https://www.clarifai.com/)
 - [Smart Brain API](https://github.com/sahil23yo/Web-App-API)
+
+### Thanks for visiting.
