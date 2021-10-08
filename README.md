@@ -33,7 +33,7 @@
 - express
 
 ### APIs
+- [Smart Brain API](https://github.com/Sahil-2/Web-App-API)
 - [Clarifai](https://www.clarifai.com/)
-- [Smart Brain API](https://github.com/sahil23yo/Web-App-API)
 
 ### Thanks for visiting.
