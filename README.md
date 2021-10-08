@@ -8,6 +8,7 @@
 - Familiarized with and understood the working of NPM Scripts, HTTP, JSON, Ajax, Bcrypt, Knex, APIs etc. <br>
 - Designed the API using Node.js and PosrtgreSQL to handle user registration and deployed the app on Heroku.com <br>
 
+## Screenshot of the App
 ![Smart Brain Capture](https://imgur.com/3SGGC2I.jpg)
 
 
