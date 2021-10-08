@@ -1,6 +1,9 @@
-# Smart-Brain-Web-App
+# Smart Brain Web Application
 
-Smart Brain is a web application that uses the Clarifai API to detect all human faces present in any digital image.
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+#Smart Brain is a web application that uses the Clarifai API to detect all human faces present in any digital image.
 
 ![Smart Brain Capture](https://imgur.com/3SGGC2I.jpg)
 
