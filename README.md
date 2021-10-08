@@ -2,7 +2,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+[Click here to visit the website](https://smmart-brain.herokuapp.com/)
 - Smart Brain is a web application that uses the Clarifai API to detect all human faces present in any digital image <br>
 - Implemented technologies like HTML, CSS, JavaScript, React for the fully responsive front-end of the web app <br>
 - Familiarized with and understood the working of NPM Scripts, HTTP, JSON, Ajax, Bcrypt, Knex, APIs etc. <br>
